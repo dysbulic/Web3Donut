@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Web3Donut/static/css/main.2f91fc6c.chunk.css",
+    "main.js": "/Web3Donut/static/js/main.92d162dd.chunk.js",
+    "main.js.map": "/Web3Donut/static/js/main.92d162dd.chunk.js.map",
+    "runtime-main.js": "/Web3Donut/static/js/runtime-main.bd5dcb21.js",
+    "runtime-main.js.map": "/Web3Donut/static/js/runtime-main.bd5dcb21.js.map",
+    "static/js/2.deb69dc7.chunk.js": "/Web3Donut/static/js/2.deb69dc7.chunk.js",
+    "static/js/2.deb69dc7.chunk.js.map": "/Web3Donut/static/js/2.deb69dc7.chunk.js.map",
+    "static/js/3.6e06e263.chunk.js": "/Web3Donut/static/js/3.6e06e263.chunk.js",
+    "static/js/3.6e06e263.chunk.js.map": "/Web3Donut/static/js/3.6e06e263.chunk.js.map",
+    "index.html": "/Web3Donut/index.html",
+    "static/css/main.2f91fc6c.chunk.css.map": "/Web3Donut/static/css/main.2f91fc6c.chunk.css.map",
+    "static/js/2.deb69dc7.chunk.js.LICENSE.txt": "/Web3Donut/static/js/2.deb69dc7.chunk.js.LICENSE.txt",
+    "static/media/raidGuildLogo.73d61afd.png": "/Web3Donut/static/media/raidGuildLogo.73d61afd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd5dcb21.js",
+    "static/js/2.deb69dc7.chunk.js",
+    "static/css/main.2f91fc6c.chunk.css",
+    "static/js/main.92d162dd.chunk.js"
+  ]
+}
